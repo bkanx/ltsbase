@@ -1,0 +1,10 @@
+2f18f72a5f313018ad53253f27d93f7f *DESCRIPTION
+d7697a286e1ad8356bead43379e9e93c *NAMESPACE
+1831ad576d35faff6b4015269e1adc43 *R/ltsbase-internal.R
+2aa75706840231ec24e15c36c4ae6bac *R/ltsbase.R
+5de7622ce5a9cdd22755487473a0b383 *R/ltsbaseDefault.R
+3ba0fea24644884f8fb41ce174b58849 *R/ltsbaseSummary.R
+ad4476a857ba3bd8f7938cb07adfca8f *man/ltsbase-package.Rd
+4567fc4187cf27c57bdcfc8a2530e175 *man/ltsbase.Rd
+13493417294fe02b781e19b53d87a436 *man/ltsbaseDefault.Rd
+36cb1347036582b2ea17024f282128d3 *man/ltsbaseSummary.Rd
