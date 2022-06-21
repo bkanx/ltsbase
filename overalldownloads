@@ -1,0 +1,9 @@
+ # How many overall downloads
+mls <- cran_downloads(packages="ltsbase", from = "2013-07-24", to = Sys.Date()-1)
+
+ # Total sum of downloads
+sum(mls[,2])
+
+  # Plots
+gr0 <- ggplot(mls, aes(mls$date, mls$count)) + geom_line(colour = "red",size=1) 
+gr0 + xlab("Time") + ylab("Nr. of downloads") + labs(title = paste0("ltsbase daily downloads ", Sys.Date()-1))
